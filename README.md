@@ -14,3 +14,6 @@ This project main goal is to plot a given function in one unknown variable x, gi
 (4) Minimum must be smaller than Maximum\
 (5) The function can't be in this format: 2x, instead let it be: 2*x\
 (6) The function must contain at least one (x)
+
+## Note
+There are 8 snapshots in the repository for examples running the program  
